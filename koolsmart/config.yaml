@@ -1,7 +1,7 @@
-name: "KoolSmart"
-description: "My KoolSmart9"
-version: "0.0.1"
-slug: "kool_76"
+name: "KoolSmart-Test"
+description: "My KoolSmart10"
+version: "0.1.0"
+slug: "kool_100"
 init: false
 ingress: true
 host_network: true
