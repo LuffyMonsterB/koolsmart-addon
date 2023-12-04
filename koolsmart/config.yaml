@@ -2,6 +2,7 @@ name: "KoolSmart"
 description: "My KoolSmart"
 version: "0.1.0"
 slug: "koolsmart_100"
+panel_icon: mdi:lightbulb-on-80
 init: false
 ingress: true
 host_network: true
