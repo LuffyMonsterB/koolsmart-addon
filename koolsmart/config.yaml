@@ -1,0 +1,18 @@
+name: "KoolSmart"
+description: "My KoolSmart9"
+version: "0.0.1"
+slug: "kool_76"
+init: false
+ingress: true
+host_network: true
+ingress_port: 8489
+startup: before
+ports:
+  8489/tcp: 8489
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+# image: "ghcr.io/home-assistant/{arch}-kool_smart"
